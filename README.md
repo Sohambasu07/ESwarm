@@ -34,3 +34,19 @@ DO
 WHILE maximum iterations or minimum error criteria is not attained
 END
 ```
+
+<h3>3. Directory Structure</h3>
+
+```
+~root
+    ~\Simulations
+    <!--Find simulations here-->
+    Particle.py
+    Run.py
+    __init__.py
+    pso_config.py
+```
+
+<p>Run the program using Run.py<br>
+Change parameter values in pso_config.py
+</p>
