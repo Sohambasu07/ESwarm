@@ -96,15 +96,15 @@ Change parameter values in <a href="https://github.com/Sohambasu07/ESwarm/blob/m
 </td>
 
 <td>
-<img>
+<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim20.png">
 </td>
 
 <td>
-<img>
+<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim24.png">
 </td>
 
 <td>
-<img>
+<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim28.png">
 </td>
 
 </tr>
