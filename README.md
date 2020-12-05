@@ -33,5 +33,4 @@ DO
     END FOR
 WHILE maximum iterations or minimum error criteria is not attained
 END
-
 ```
