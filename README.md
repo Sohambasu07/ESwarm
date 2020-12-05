@@ -71,12 +71,8 @@ Change parameter values in <a href="https://github.com/Sohambasu07/ESwarm/blob/m
 
 <h3>4. Simulation Results</h3>
 
-<table>
-<tr><td>
-<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/PSO_Run.gif">
-</td></tr>
-</table>
 
+<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/PSO_Run.gif">
 
 
 <table>
