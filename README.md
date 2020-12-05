@@ -38,15 +38,6 @@ END
 <h3>3. Directory Structure</h3>
 
 ```bash
-~root
-    ~\Simulations
-    <!--Find simulations here-->
-    Particle.py
-    Run.py
-    __init__.py
-    pso_config.py
-```
-```bash
 ├── Simulations
 │   ├── PSO_Run.mp4
 │   ├── sim01.png
