@@ -37,7 +37,7 @@ END
 
 <h3>3. Directory Structure</h3>
 
-```
+```bash
 ~root
     ~\Simulations
     <!--Find simulations here-->
@@ -46,7 +46,68 @@ END
     __init__.py
     pso_config.py
 ```
+```bash
+├── Simulations
+│   ├── PSO_Run.mp4
+│   ├── sim01.png
+│   ├── sim09.png
+│   ├── sim11.png
+│   ├── sim16.png
+│   ├── sim20.png
+│   ├── sim24.png
+│   └── sim28.png
+├── __pycache__
+├── Particle.py
+├── Readme.md
+├── Run.py
+├── Space.py
+├── __init__.py
+└── pso_config.py
+```
 
-<p>Run the program using Run.py<br>
-Change parameter values in pso_config.py
+<p>Run the program using <a href="https://github.com/Sohambasu07/ESwarm/blob/master/Run.py">Run.py</a><br>
+Change parameter values in <a href="https://github.com/Sohambasu07/ESwarm/blob/master/pso_config.py">pso_config.py</a>
 </p>
+
+<h3>4. Simulation images</h3>
+<table>
+
+
+<tr>
+
+<td>
+<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim01.png">
+</td>
+
+<td>
+<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim09.png">
+</td>
+
+<td>
+<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim11.png">
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim16.png">
+</td>
+
+<td>
+<img>
+</td>
+
+<td>
+<img>
+</td>
+
+<td>
+<img>
+</td>
+
+</tr>
+
+
+</table>
