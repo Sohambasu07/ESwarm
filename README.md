@@ -69,8 +69,17 @@ END
 Change parameter values in <a href="https://github.com/Sohambasu07/ESwarm/blob/master/pso_config.py">pso_config.py</a>
 </p>
 
-<h3>4. Simulation images</h3>
+<h3>4. Simulation Results</h3>
 <table>
+
+<tr>
+
+<td>
+<video width="600" height="300" controls>
+<source src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/PSO_Run.mp4" type="video/mp4">
+</video>
+</td>
+</tr>
 
 
 <tr>
@@ -102,6 +111,11 @@ Change parameter values in <a href="https://github.com/Sohambasu07/ESwarm/blob/m
 <td>
 <img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim24.png">
 </td>
+
+</tr>
+
+
+<tr>
 
 <td>
 <img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim28.png">
