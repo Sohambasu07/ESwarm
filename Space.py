@@ -13,10 +13,6 @@ class Space():
         self.gbest_value = float('inf')
         self.gbest_position = np.array([random.random() * 20, random.random() * 20])
 
-    def print_particles(self):
-        for particle in self.particles:
-            particle.__str__()
-
     def fitness(self, particle):
         return particle.position[0] ** 2 + particle.position[1] ** 2 + 1
 

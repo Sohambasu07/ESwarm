@@ -11,10 +11,8 @@ class Particle():
         self.pbest_value = float('inf')
         self.velocity = np.array([0, 0])
 
-    def __str__(self):
-        print("I am at ", self.position, " my pbest is ", self.pbest_position)
-        #arr.append(self.position)
-        plt.scatter(self.position[0],self.position[1],8,'r','o')
+    def __str__(self, n):
+        print(f"Particle {n} is at ", self.position, " with pbest ", self.pbest_position)
 
     def move(self):
         self.position = self.position + self.velocity

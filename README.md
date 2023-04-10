@@ -62,6 +62,11 @@ Change parameter values in <a href="https://github.com/Sohambasu07/ESwarm/blob/m
 
 <h3>4. Simulation Results</h3>
 
+Simulated with:
+Maximum number of iterations: 30
+Minimum Target Error: 1e-12
+Number of Particles: 250
+
 
 <img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/PSO_Run.gif">
 
@@ -71,15 +76,23 @@ Change parameter values in <a href="https://github.com/Sohambasu07/ESwarm/blob/m
 <tr>
 
 <td>
-<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim01.png">
+<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim_0.png">
 </td>
 
 <td>
-<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim09.png">
+<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim_2.png">
 </td>
 
 <td>
-<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim11.png">
+<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim_4.png">
+</td>
+
+<td>
+<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim_7.png">
+</td>
+
+<td>
+<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim_10.png">
 </td>
 
 </tr>
@@ -87,15 +100,23 @@ Change parameter values in <a href="https://github.com/Sohambasu07/ESwarm/blob/m
 <tr>
 
 <td>
-<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim16.png">
+<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim_12.png">
 </td>
 
 <td>
-<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim20.png">
+<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim_15.png">
 </td>
 
 <td>
-<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim24.png">
+<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim_18.png">
+</td>
+
+<td>
+<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim_24.png">
+</td>
+
+<td>
+<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim_30.png">
 </td>
 
 </tr>
