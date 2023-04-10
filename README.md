@@ -80,19 +80,43 @@ Number of Particles: 250
 </td>
 
 <td>
+<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim_1.png">
+</td>
+
+<td>
 <img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim_2.png">
 </td>
 
 <td>
-<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim_4.png">
+<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim_3.png">
 </td>
 
 <td>
-<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim_7.png">
+<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim_5.png">
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim6.png">
 </td>
 
 <td>
-<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim_10.png">
+<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim7.png">
+</td>
+
+<td>
+<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim8.png">
+</td>
+
+<td>
+<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim9.png">
+</td>
+
+<td>
+<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim10.png">
 </td>
 
 </tr>
@@ -117,15 +141,6 @@ Number of Particles: 250
 
 <td>
 <img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim_30.png">
-</td>
-
-</tr>
-
-
-<tr>
-
-<td>
-<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim28.png">
 </td>
 
 </tr>
