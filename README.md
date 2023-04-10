@@ -62,10 +62,10 @@ Change parameter values in <a href="https://github.com/Sohambasu07/ESwarm/blob/m
 
 <h3>4. Simulation Results</h3>
 
-Simulated with:
-Maximum number of iterations: 30
-Minimum Target Error: 1e-12
-Number of Particles: 250
+Simulated with: <\br>
+Maximum number of iterations: 30 <\br>
+Minimum Target Error: 1e-12 <\br>
+Number of Particles: 250 <\br>
 
 
 <img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/PSO_Run.gif">
