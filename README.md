@@ -100,23 +100,23 @@ Number of Particles: 250
 <tr>
 
 <td>
-<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim6.png">
+<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim_6.png">
 </td>
 
 <td>
-<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim7.png">
+<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim_7.png">
 </td>
 
 <td>
-<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim8.png">
+<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim_8.png">
 </td>
 
 <td>
-<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim9.png">
+<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim_9.png">
 </td>
 
 <td>
-<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim10.png">
+<img src="https://github.com/Sohambasu07/ESwarm/blob/master/Simulations/sim_10.png">
 </td>
 
 </tr>
