@@ -1,7 +1,7 @@
 import numpy as np
 import random
 import matplotlib.pyplot as plt
-from ESwarm.pso_config import *
+from pso_config import *
 
 class Particle():
     def __init__(self):

@@ -1,9 +1,9 @@
 import random
 import numpy as np
 import matplotlib.pyplot as plt
-from ESwarm.Particle import Particle
-from ESwarm.Space import Space
-from ESwarm.pso_config import *
+from Particle import Particle
+from Space import Space
+from pso_config import *
 
 n_iterations = int(input("Maximum number of iterations: "))
 target_error = float(input("Minimum Target Error: "))#float(1e-8)
